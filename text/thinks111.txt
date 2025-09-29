@@ -1,0 +1,18 @@
+A
+twenty
+B
+thirty
+C
+forty
+D
+fifty
+E
+sixty
+F
+seventy
+G
+eighty
+H
+ninety
+I
+one hundred

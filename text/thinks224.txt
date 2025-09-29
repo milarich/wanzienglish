@@ -1,0 +1,12 @@
+Example
+Can I do my homework later?
+1
+Can I try on these jeans, please?
+2
+Can I do use your laptop, please?
+3
+Dad, can I go out tonight?
+4
+Can we play football in the garden?
+5
+Can we eat dinner in front of the TV?

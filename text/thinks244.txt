@@ -1,0 +1,12 @@
+1
+dirty
+2
+boring
+3
+dangerous
+4
+lovely
+5
+clever     
+6
+horrible

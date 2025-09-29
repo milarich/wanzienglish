@@ -1,0 +1,16 @@
+A
+bed
+B
+fridge
+C
+sofa
+D
+cooker
+E
+shower
+F
+bath
+G
+armchair
+H
+toilet

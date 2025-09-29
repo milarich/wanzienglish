@@ -1,0 +1,22 @@
+PRESENTER: Hello and welcome to the One minute challenge. On line 1 we have Paula. Where are you from, Paula?
+PAULA: Hi, John. I'm from London.
+PRESENTER: That's great. Ok, Paula, you have one minute. How many questions can you answer? Today's questions are all about....nationalities.
+PAULA: OK.
+PRESENTER: Paula, are you ready?
+PAULA: Yes, I am.
+PRESENTER: So let's play... The One minute Challenge.
+PRESENTER: OK. Maria Sharapova, the tennis player, is from...
+PAULA: Russia. She's Russian.
+PRESENTER: Correct. Question 2. Sushi is from...
+PAULA: Sushi? That's a type of food. It's South African.
+PRESENTER: No, I'm sorry. You're wrong. It's a Japanese dish.
+PAULA: Of course.
+PRESENTER: Bruno Mars is a singer. He's from...
+PAULA: Bruno Mars is American.
+PRESENTER: Correct. Next question. Cariocas are people from...
+PAULA: I've no idea.
+PRESENTER: Cariocas. They're from Rio de Janeiro in Brazil.
+PAULA: I didn't know that.
+PRESENTER: The actor Javier Bardem is from....
+PAULA: He's from Spain.
+PRESENTER: Correct. Salsa music is... I'm sorry, Paula. We're out of time. Your score is three.

@@ -1,0 +1,20 @@
+Just a little joke
+ 
+RUBY: Hi, Ellie.
+ELLIE: Hi, Ruby. How's it going?
+RUBY: Great, thanks. Oh, hello, Dan.
+DAN: Hi, you two.
+ 
+RUBY: Who's that?
+DAN: That's Thomas.
+ELLIE: Who's he?
+DAN: He's in my class. He's new.
+ 
+ELLIE: Where's he from?
+DAN: He's from Paris. He's cool. OK, time to go now. See you tomorrow.
+RUBY: Bye, Dan.
+ELLIE: See you later.
+ 
+ELLIE: He's from Paris?
+RUBY: Paris. That is so awesome!                                                                   
+ELLIE: I know!

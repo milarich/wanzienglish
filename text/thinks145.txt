@@ -1,0 +1,16 @@
+Example
+one hundred and thirty
+1 
+one hundred and fifty
+2 
+one hundred and seventy-five
+3
+two hundred
+4
+five hundred and sixty
+5 
+one thousand
+6 
+one thousand two hundred
+7 
+two thousand

@@ -1,0 +1,12 @@
+Example
+She's got a very nice smile.
+1
+She wears glasses.
+2
+He's got a moustache.
+3
+He's got a beard.
+4
+She's got an earring in her right ear.
+5
+She's not short, she's quite tall.

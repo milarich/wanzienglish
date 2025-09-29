@@ -1,0 +1,14 @@
+A
+beard
+B
+moustache
+C
+earring
+D
+glasses
+E
+tall
+F
+smile
+G
+short

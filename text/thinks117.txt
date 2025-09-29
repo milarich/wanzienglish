@@ -1,0 +1,20 @@
+Example
+Russia
+1
+Turkey
+2
+Mexico
+3
+Japan
+4
+The USA
+5
+Brazil
+6
+Portugal
+7
+South Africa
+8
+Spain
+9
+The UK

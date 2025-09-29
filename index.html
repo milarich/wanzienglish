@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>湾子英语学习</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 左侧课程列表 -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>课程列表</h2>
+                <div class="course-count">共 <span id="course-count">0</span> 个课程</div>
+            </div>
+            <div class="course-list-container">
+                <ul id="course-list">
+                    <!-- 课程列表将通过 JavaScript 动态生成在这里 -->
+                </ul>
+            </div>
+        </aside>
+
+        <!-- 右侧主内容区 -->
+        <main class="main-content">
+            <!-- 当前课程标题 -->
+            <header class="course-header">
+                <h1 id="current-course-title">请从左侧选择一个课程</h1>
+            </header>
+
+            <!-- 音频播放器区域 -->
+            <section class="player-section">
+                <audio id="audio-player" controls>
+                    您的浏览器不支持 audio 元素。
+                </audio>
+                <div class="player-controls">
+                    <button id="play-pause-btn" class="control-btn">播放</button>
+                </div>
+            </section>
+
+            <!-- 文本显示区域 -->
+            <section class="text-section">
+                <div id="course-text" class="text-content">
+                    <!-- 课程文本将动态加载在这里 -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- 引入我们的 JavaScript 文件 -->
+    <script src="app.js?v=2"></script>
+</body>
+</html>

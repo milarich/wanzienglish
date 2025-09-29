@@ -1,0 +1,12 @@
+1
+fifteen pounds
+2
+twenty-five dollars
+3
+two hundred and thirty euros
+4
+nine pounds ninety-nine
+5
+twenty-one dollars ninety-five
+6
+seventy-two euros fifty

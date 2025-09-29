@@ -1,0 +1,10 @@
+WOMAN: Hi there. Can I help you?
+BOY: Hello. Yes, please. Have you got any music magazines?
+WOMAN: Sure. There's this one here, and there's also this one.
+BOY: Great. How much are they?
+WOMAN: This one is GBP3.95, and the other one is GBP3.50.
+BOY: OK - I'll take them.
+WOMAN: Great. That's GBP7.45, please.
+BOY: OK, Here you are. GBP10.00
+WOMAN: Thank you. And here's your change - GBP2.55.
+BOY: Thanks. Bye!

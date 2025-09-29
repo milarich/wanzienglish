@@ -1,0 +1,16 @@
+[W,WM Read and listen to the dialogue.
+EUR19,J, 'i',J,
+WAITRESS Would you like salad or soup?
+'i',J,
+MIKE Salad, please.
+'i',J,
+WAITRESS Chicken or fish?
+MIKE I think I'll have fish today.
+WAITRESS Would you like dessert?
+MIKE Yes, please!
+'i',J, 'i',J,
+WAITRESS Cake or fruit?
+MIKE Hmm ... I'll have the fruit.
+'i',J, 'i',J,
+WAITRESS And coffee or tea?
+MIKE Oh, coffee, please.

@@ -1,0 +1,16 @@
+A
+play tennis
+B
+go surfing
+C
+ice-skate
+D
+play basketball
+E
+cycle
+F
+snowboard
+G
+do tae kwon do
+H
+play volleyball

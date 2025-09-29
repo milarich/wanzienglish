@@ -1,0 +1,23 @@
+NARRATOR: Example. What time does Bob get home from school?
+ANNE: What time do you get home from school?
+BOB: Well my school finishes at quarter to three.
+ANNE: Quarter to three?
+BOB: Yes, and I get home at quarter past three.
+ANNE: So it takes you half an hour to get home?
+BOB: That's right. Thirty minutes.
+ 
+NARRATOR: One. When is Sue's birthday?
+SUE: When's your birthday, Fred?
+FRED: It's next week.
+SUE: What day?
+FRED: It's on the 13th. I think it's Thursday.
+SUE: I don't believe it.
+FRED: What?
+SUE: It's the day before mine. My birthday's on the 14th.
+ 
+NARRATOR: Two. What is Lucy's favourite month?
+STEVE: What's your favourite month, Lucy?
+LUCY: Well, I love the summer, June, July, August.
+STEVE: But which is your favourite?
+LUCY: July, because my birthday's in July too.
+STEVE: I love August because that's when we're on holiday!

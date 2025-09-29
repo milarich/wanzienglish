@@ -1,0 +1,12 @@
+A
+ferry
+B
+taxi
+C
+train
+D
+helicopter
+E
+motorbike
+F
+plane

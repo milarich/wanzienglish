@@ -1,0 +1,14 @@
+1
+garage
+2
+living room
+3
+kitchen
+4
+bedroom
+5
+bathroom
+6
+hall
+7
+garden

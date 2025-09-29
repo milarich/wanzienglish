@@ -1,0 +1,27 @@
+  1
+ANDY: Hello. My name's Andy.
+TOM: Hi, Andy. I'm Tom, and this is Lucy.
+LUCY: Hi, Andy.
+ANDY: Hi, Tom. Hi, Lucy.
+ 
+2
+ABI: Good afternoon, Mrs Hamilton.
+MRS HAMILTON: Hi, Abi. How are you?
+ABI: Great, thanks. And you?
+MRS HAMILTON: I'm fine, thanks.
+ 
+3
+DAVE: Good morning Mr Thomas.
+MR THOMAS: Hello, Dave. How are you?
+DAVE: I'm fine, thank you.
+MR THOMAS: Good. I'll see you in class.
+DAVE: Bye, Mr Thomas.
+ 
+4
+JIM: Bye, Rachel.
+RACHEL: Bye, Jim. See you later.
+JIM: Yeah, have a good day.
+ 
+5
+SUE: Good night, Mum.
+MUM: Night, Sue. Sleep well.

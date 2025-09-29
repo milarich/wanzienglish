@@ -1,0 +1,23 @@
+MAN: Good morning. How can I help you?
+AMY: Good morning. I want to go to Brighton. What time's the next train?
+MAN: The next one is at quarter past nine.
+AMY: And the one after that?
+MAN: There's one at 9.40. But that's the slower train. It stops everywhere.
+AMY: Hmm, that's not so good.
+MAN: But if you wait for another five minutes you can get the 9.45. That's much quicker.
+AMY: What time does that one arrive in Brighton?
+MAN: At quarter to eleven.
+AMY: Quarter to eleven. And how much is a ticket to Brighton?
+MAN: Do you want a single or a return?
+AMY: A return ticket please.
+MAN: Returning today?
+AMY: No, I want to come back on Friday.
+MAN: Friday. Ok, that's GBP16.40, please.
+AMY: What platform does the train leave from?
+MAN: Platform 13. It's on the other side of the bridge.
+AMY: And do you know what platform it arrives at in Brighton.
+MAN: The platform it arrives at?
+AMY: Yes, my mum wants to meet me off the train there.
+MAN: Ok, let me see. The 9.45.... arrives in Brighton at platform...9.
+AMY: Platform 9. I'll text my mum. Thank you so much.
+MAN: You're welcome. And have a good journey.

@@ -1,0 +1,43 @@
+NARRATOR: What's your name?
+PEDRO: Pedro.
+NARRATOR: Where are you from?
+PEDRO: I'm Brazilian. I'm from a city called Belo Horizonte.
+NARRATOR: How old are you?
+PEDRO: I'm 10.
+NARRATOR: Who's your favourite athlete?
+PEDRO: Usain Bolt.
+NARRATOR: Why is he your favourite athlete?
+PEDRO: Because he's amazing!
+ 
+NARRATOR: What's your name?
+BRITTANY: My name is Brittany.
+NARRATOR: Where are you from?
+BRITTANY: I'm British. I'm from Manchester.
+NARRATOR: How old are you?
+BRITTANY: I'm 12.
+NARRATOR: Who's your favourite athlete?
+BRITTANY: My favourite athlete is Missy Franklin. She's a swimmer.
+NARRATOR: Why is she your favourite athlete?
+BRITTANY: Because she's great!
+ 
+NARRATOR: What's your name?
+OLEG: I'm Oleg.
+NARRATOR: Where are you from?
+OLEG: I'm from Russia. I live in Moscow.
+NARRATOR: How old are you?
+OLEG: I'm 11.
+NARRATOR: Who's your favourite athlete?
+OLEG: Mariya Savinova. She's a runner.
+NARRATOR: Why is she your favourite athlete?
+OLEG: Because she's fast!
+ 
+NARRATOR: What's your name?
+KATIE: My name is Haruka.
+NARRATOR: Where are you from?
+KATIE: I'm Japanese. I'm from Tokyo.
+NARRATOR: How old are you?
+KATIE: I'm 11.
+NARRATOR: Who's your favourite athlete?
+KATIE: Zheng Jie. She's a tennis player from China.
+NARRATOR: Why is she your favourite athlete?
+KATIE: Because she's awesome!

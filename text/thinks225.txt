@@ -1,0 +1,21 @@
+WAITER: Hello.
+ANNA: Hi.
+WAITER: Would you like a table for two?
+ANNA: Yes, please.
+WAITER: Here are the menus
+WAITER: Are you ready to order?
+ANNA: For me, the potato salad, please. And then the pasta with tomato sauce.
+WAITER: OK, and what would you like to drink?
+ANNA: A cola, please.
+WAITER: OK. And what would you like?
+JACK: I'd like the tuna salad, please. But without the tomatoes.
+WAITER: I'm sorry, the salads are ready. We can't take the tomatoes out.
+JACK: I see. I don't like tomatoes. Erm ... I'd like the vegetable soup, then.
+WAITER: Excellent. And for the main course?
+JACK: I'd like fish and chips, please. And a cola too.
+WAITER: Lovely.
+JACK: We'd like the bill, please.
+WAITER: Of course. Everything OK?
+JACK: Great, thanks.
+WAITER: Thanks very much. Here's your bill.
+ANNA: Thank you.

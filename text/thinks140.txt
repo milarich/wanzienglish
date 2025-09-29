@@ -1,0 +1,23 @@
+A song for Ruby
+ 
+TOM: Come in, guys.
+RUBY: Wow, this photo is cool!
+TOM: Thank you.
+DAN: What's that photo over there?
+ 
+TOM: That's my family. We're on holiday.
+RUBY: It looks great. So these are your parents and...
+ELLIE: ...that's your sister?
+TOM: No, that's my cousin. My sister is there.
+ELLIE: Oh, right. She looks like you!
+ 
+DAD: Hello, everyone.
+DAN: Hello.
+TOM: Dad, these are my friends. This is Dan, and that's Ellie.
+DAD: Nice to meet you.
+ 
+TOM: And this is Ruby.
+DAD: Ruby? Really?
+RUBY: Yes. Why?
+DAD: Well, there's a great song called 'Ruby'. Just a minute. Where's my guitar?
+TOM: OK, guys, let's go. I want to show you my room.

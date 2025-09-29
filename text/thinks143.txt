@@ -1,0 +1,30 @@
+1
+WOMAN 1: Excuse me?
+MAN 1: Yes, can I help you?
+WOMAN 1: Is there a chemist's near here?
+MAN 1: Yes, there's a chemist's in King Street. Go up here, turn left and the chemist's is next to the bank.
+WOMAN 1: Next to the bank?
+MAN 1: That's right. And it's opposite the library.
+WOMAN 1: That's great. Thank you.
+MAN 1: No problem.
+ 
+2
+MAN 2: Excuse me?
+WOMAN 2: Yes?
+MAN 2: Where's the museum?
+WOMAN 2: The museum? OK. Walk down this street, and go past the supermarket.
+MAN 2: OK.
+WOMAN 2: The museum is there - on the corner of Green Street.
+MAN 2: Is it far from here?
+WOMAN 2: No, only five minutes.
+MAN 2: OK, thank you. Have a nice day!
+ 
+3
+MAN 3: Excuse me - can I get a bus from here to the shopping centre?
+WOMAN 3: Oh, don't take a bus - the shopping centre's only two minutes from here.
+MAN 3: Really? OK. But how do I get there?
+WOMAN 3: Just go along this street and take the second road on the left.
+MAN 3: Second on the left. Great.
+WOMAN 3: That's right. Don't take the first left, that's wrong. Second left, and then it's easy! It's opposite a restaurant.
+MAN 3: Well, thanks a lot.
+WOMAN 3: No problem. Don't mention it.

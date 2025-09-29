@@ -1,0 +1,9 @@
+GINA: What's your name?
+PAULO: I'm Paulo and you?
+GINA: I'm Gina.
+PAULO: Nice to meet you, Gina.
+GINA: Nice to meet you too.
+PAULO: Where are you from, Gina?
+GINA: I'm from Paris.
+PAULO: Paris is a beautiful city.
+GINA: Yes it is.

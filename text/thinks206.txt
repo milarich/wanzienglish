@@ -1,0 +1,8 @@
+A
+It's quarter past ten.
+B
+It's quarter to one.
+C
+It's three o'clock.
+D
+It's half past eight.

@@ -1,0 +1,18 @@
+Example
+park
+1
+train station
+2
+bank
+3
+restaurant
+4
+museum
+5
+library
+6
+post office
+7
+supermarket
+8
+chemist's

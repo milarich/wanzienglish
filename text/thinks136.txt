@@ -1,0 +1,7 @@
+ANNA Can I have that cake, please?
+ASSISTANT This one or that one?
+ANNA That one - the chocolate one.
+ASSISTANT That's a fruitcake, but these cupcakes
+are chocolate.
+ANNA Oh! Can I have two of those, then?
+ASSISTANT Of course. Here you are.

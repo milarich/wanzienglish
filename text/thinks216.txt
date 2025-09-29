@@ -1,0 +1,24 @@
+A
+jeans
+B
+a T-shirt
+C
+trainers
+D
+a coat
+E
+a dress
+F
+shoes
+G
+shorts
+H
+a shirt
+I
+socks
+J
+a jumper
+K
+a skirt
+L
+trousers

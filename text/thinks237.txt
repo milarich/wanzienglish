@@ -1,0 +1,16 @@
+A
+It's snowing.
+B
+It's hot.
+C
+It's warm.
+D
+It's windy.
+E
+It's cold.
+F
+It's cloudy.
+G
+It's raining.
+H
+It's sunny.

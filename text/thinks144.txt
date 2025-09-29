@@ -1,0 +1,31 @@
+1
+MAN 1: Morning. Can I help you?
+GIRL 1: Yes, please. A ticket to London, please.
+MAN 1: Return?
+GIRL 1: Yes please - a day return. How much is it?
+MAN 1: Well, it's GBP27.50 - but you can't come back between four o'clock and seven o'clock.
+GIRL 1: Oh, no problem. Here you are - GBP30.
+MAN 1: Thank you. And ... GBP2.50 change.
+GIRL 1: Thanks a lot
+MAN 1: OK. Oh! Don't forget your tickets!
+GIRL 1: Oh, yes - thanks. Silly me.
+ 
+2
+WOMAN 1: These are nice. I really like them.
+MAN 2: Yes, they're really nice.
+WOMAN 1: And they're very comfortable. How much are they?
+MAN 2: They're GBP120.
+WOMAN 1: Wow. They're expensive.
+MAN 2: Yes, but they're beautiful shoes.
+WOMAN 1: You're right. OK, I'll take them.
+MAN 2: Great!
+ 
+3
+WOMAN 2: Hello.
+GIRL 2: Hi. Can I take these, please?
+WOMAN 2: OK. Wow, that's a lot of books!
+GIRL 2: That's right. There are twelve. Well, I'm a student.
+WOMAN 2: Oh, right! So, here we go. Right - that's GBP135, please.
+GIRL 2: OK. Here's my credit card.
+WOMAN 2: Thank you. OK, bye - have a nice day!
+GIRL 2: You too. Thank you!
